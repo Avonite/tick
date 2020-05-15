@@ -1,7 +1,3 @@
-# remcodenheijer
-
-Family To-Do List
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
